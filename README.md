@@ -104,9 +104,6 @@ This project provided hands-on experience with advanced Unity functionalities, i
 Despite these complexities, the project successfully demonstrates fundamental **Audio/Network/Devices functionalities** and offers a foundation for further refinement and enhancement.
 Assets
 
-## Contact
+## Authors
 - **Lorenzo Severini** - [GitHub](https://github.com/lorenzo-severini)
 - **David Zipperstein** - [GitHub](https://github.com/david-z2812)
-
-## License
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
