@@ -102,6 +102,7 @@ This project provided hands-on experience with advanced Unity functionalities, i
 - Managing webcam access for multiple users
 
 Despite these complexities, the project successfully demonstrates fundamental **Audio/Network/Devices functionalities** and offers a foundation for further refinement and enhancement.
+Assets
 
 ## Contact
 - **Lorenzo Severini** - [GitHub](https://github.com/lorenzo-severini)
