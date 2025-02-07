@@ -63,8 +63,10 @@ This Unity project focuses on the integration of audio processing, networking, a
 - Plays a sound effect when the sphere is struck.
 - Ensures centralized and consistent audio management across the application.
 
-### Linux Executable
-- The project includes a compiled **Linux-compatible executable** for deployment and testing.
+## Uploaded Files
+
+Due to the overall size of the project exceeding GitHub's limits, only the build files of the project have been uploaded. Other files, including scenes, scripts, assets, and configurations, are not included in the repository.
+If you wish to access the complete project or the source version, you can request a copy directly from the team members or clone the repository and manually add the necessary source files and assets.
 
 ## Installation and Configuration
 
@@ -75,9 +77,8 @@ This Unity project focuses on the integration of audio processing, networking, a
 
 ### Running the Project
 1. Clone the repository or extract the provided ZIP file.
-2. Open the project in Unity.
-3. Set the main scene as the Startup Scene.
-4. Execute the game as either a Host or Client.
+2. Execute the Windows/Linux executable (depending on your OS)
+3. Execute the game as either a Host or Client.
 
 ## Challenges and Issues
 
@@ -88,7 +89,7 @@ This Unity project focuses on the integration of audio processing, networking, a
 ### Webcam Access
 - Only one player per device can utilize the default webcam.
 
-### VR Mode Compatibility
+### XR Mode Compatibility
 - XR mode may malfunction when multiple players are active simultaneously.
 - Implemented the **XR Device Simulator** to facilitate testing without a physical headset.
 
